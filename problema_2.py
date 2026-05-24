@@ -36,7 +36,7 @@ def main():
         ["Filete de Pollo", "Plato Fuerte", 18000],
         ["Limonada Cerezada", "Bebida", 7500],
         ["Brownie con Helado", "Postre", 12000],
-        ["Crema de Tomate", "Entrada", 11000]
+        ["Crema de Tomate", "Entrada", 12000]
     ]
 
     print("=== CONFIGURACIÓN DE LA PROMOCIÓN (RESTAURANTE) ===")
