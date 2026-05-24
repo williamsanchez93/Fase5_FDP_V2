@@ -1,6 +1,5 @@
 #Nombre estudiante: William Abraham Sanchez Obando
 #Grupo: 213022_514
-#Programa ejercicio #2 - Matrices y Arreglos
 #Código Fuente: autoría propia
 #Fase 5: Evaluación Final POA
 #Curso: Fundamentos de Programación
